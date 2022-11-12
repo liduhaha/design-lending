@@ -22,7 +22,7 @@ const FirstCol = () => {
               </div>
               <div className={style.item}>
                   <article>
-                      Lorem ipsum dolor sit.
+                      Lorem an ipsum dolor sit.
                   </article>
                   <section>
                       <img src={face2} alt=""/>
