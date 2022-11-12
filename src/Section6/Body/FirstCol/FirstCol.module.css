@@ -1,0 +1,38 @@
+.col1 {
+    display: flex;
+    flex-direction: column;
+    width: 19.5vw;
+    gap: 1.5vh;
+}
+
+.item {
+    height: fit-content;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    padding: 2.2vh;
+    text-align: left;
+}
+
+.item article {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2vh;
+    color: #0B4141;
+    margin-bottom: 1.25vh;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+    line-height: 1.8vh;
+}
+ section img {
+    width: 2.3vw;
+}
+
+.item section {
+    display: flex;
+    flex-direction: row;
+    gap: 1.3vw;
+}

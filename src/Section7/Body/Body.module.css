@@ -1,0 +1,43 @@
+.sec7_body {
+    padding-top: 7.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sec7_body h1 {
+    font-family: 'Motter Corpus Std', sans-serif;
+    font-size: 9rem;
+    line-height: 10.7vh;
+    text-align: center;
+    color: #FFCCBC;
+    letter-spacing: 4px;
+}
+
+.sec7_btnContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 2.5vw;
+}
+
+.sec7_body button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 300px;
+    padding: 1.3vh 2vw;
+    width: 13.6vw;
+    height: auto;
+    border: 2px solid #FFCCBC;
+    background: transparent;
+    color: #FFCCBC;
+    font-size: 1.7rem;
+    text-align: left;
+    gap: 1vw;
+}
+
+.sec7_body button>img {
+    height: 80%;
+    width: auto;
+}

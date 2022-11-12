@@ -1,0 +1,5 @@
+.sec2_container {
+    height: 100vh;
+    background-image: url("../img/bg.png");
+    box-sizing: border-box;
+}

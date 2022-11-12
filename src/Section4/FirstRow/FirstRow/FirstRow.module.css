@@ -1,0 +1,5 @@
+.firstRow {
+    display: flex;
+    flex-direction: row;
+
+}

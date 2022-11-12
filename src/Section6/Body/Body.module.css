@@ -1,0 +1,23 @@
+.sec6_body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 1700px;
+    margin: 0 auto 0 auto;
+}
+
+.bodyCol1 {
+
+}
+
+.bodyCol2 {
+
+}
+
+.bodyCol3 {
+
+}
+
+.item {
+
+}

@@ -1,0 +1,67 @@
+@import url('//db.onlinewebfonts.com/c/1b1a77e84a069c2f8b042cfd019685d1?family=Motter+Corpus+Std');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+.sec1_Header {
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px 98px 0 102px;
+    position: fixed;
+    top: 0;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(9px);
+    z-index: 10;
+}
+
+.sec1_Header h1 {
+    color: #0B4141;
+    font-size: 40px;
+    line-height: 40px;
+    width: 131px;
+    height: 31px;
+    font-family: 'Motter Corpus Std', sans-serif;
+}
+
+.ul_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.sec1_Header nav {
+    width: fit-content;
+}
+
+.sec1_Header li {
+    list-style-type: none;
+}
+
+.sec1_Header li>button {
+    font-family: 'Nunito Sans', sans-serif;
+    background: none;
+    border: none;
+    font-size: 30px;
+}
+
+.download_btn {
+    padding: 12px 25px;
+    width: fit-content;
+    height: fit-content;
+    background: #0B4141;
+    border-radius: 124px;
+    color: #FFCCBC;
+    font-size: 30px;
+}
+
+.nav_btn {
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+
+

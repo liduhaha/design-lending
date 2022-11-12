@@ -1,0 +1,4 @@
+.secondRow {
+    display: flex;
+    flex-direction: row;
+}

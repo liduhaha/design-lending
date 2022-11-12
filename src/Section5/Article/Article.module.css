@@ -1,0 +1,38 @@
+.sec5_article {
+    width: 70vw;
+    padding: 15.6vh 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sec5_article h1 {
+    font-family: 'Motter Corpus Std', sans-serif;
+    font-size: 8rem;
+    line-height: 8.6vh;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #FFCCBC;
+    margin: 0;
+}
+
+.sec5_article div{
+    margin: 4vh 4.6vw 0 4.6vw;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 3rem;
+    line-height: 3.6vh;
+    text-align: center;
+    color: #0B4141;
+}
+
+.sec5_article span {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

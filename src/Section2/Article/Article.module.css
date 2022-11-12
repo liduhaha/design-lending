@@ -1,0 +1,33 @@
+.sec1_article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20vh 0;
+    position: relative;
+    z-index: 3;
+    box-sizing: border-box;
+}
+
+.sec1_article h1 {
+    display: block;
+    font-family: 'Motter Corpus Std', sans-serif;
+    font-size: 9rem;
+    line-height: 9vh;
+    color: white;
+    margin-bottom: 0;
+    letter-spacing: 5px;
+}
+
+.sec1_article div {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 2.5rem;
+    line-height: 3vh;
+    color: white;
+    margin-top: 2vh;
+    width: 37vw;
+}
+
+.sec1_article span {
+    font-weight: bold;
+}

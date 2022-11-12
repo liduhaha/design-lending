@@ -1,0 +1,38 @@
+.firstrow_article {
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
+
+.firstrow_article h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 9rem;
+    line-height: 10vh;
+    color: #FFCCBC;
+    text-align: left;
+}
+
+.firstrow_article div {
+    color: #0B4141;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 2.5rem;
+    line-height: 3.6vh;
+    text-align: left;
+
+}
+
+.scroll {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 20px;
+}
+.scroll img {
+    width: 2vh;
+    height: 3vh;
+}
+
+.scroll div {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+}

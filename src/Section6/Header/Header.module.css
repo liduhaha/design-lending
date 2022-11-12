@@ -1,0 +1,13 @@
+.sec6_header {
+
+}
+
+.sec6_header h1 {
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 8rem;
+    line-height: 8vh;
+    text-align: center;
+    padding: 4.4vh 0;
+    margin: 0;
+}

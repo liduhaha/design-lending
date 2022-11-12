@@ -1,0 +1,6 @@
+.sec4 {
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
