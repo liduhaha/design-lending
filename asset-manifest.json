@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/design-lending/static/css/main.6722ecd6.css",
+    "main.css": "/design-lending/static/css/main.521f11d0.css",
     "main.js": "/design-lending/static/js/main.6cdfffdd.js",
     "static/js/787.28cb0dcd.chunk.js": "/design-lending/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg.png": "/design-lending/static/media/bg.0dce67d76c432fbbf866.png",
     "static/media/bg1.png": "/design-lending/static/media/bg1.932a63063a0c5d750b6b.png",
     "static/media/img2.png": "/design-lending/static/media/img2.1dfed31c7ae8bcddbfc4.png",
     "static/media/img1.png": "/design-lending/static/media/img1.1cc14985503f6f741073.png",
+    "static/media/MotterCorpusStd-Regular.otf": "/design-lending/static/media/MotterCorpusStd-Regular.5cd6e133ced7861d6f7d.otf",
     "index.html": "/design-lending/index.html",
-    "main.6722ecd6.css.map": "/design-lending/static/css/main.6722ecd6.css.map",
+    "main.521f11d0.css.map": "/design-lending/static/css/main.521f11d0.css.map",
     "main.6cdfffdd.js.map": "/design-lending/static/js/main.6cdfffdd.js.map",
     "787.28cb0dcd.chunk.js.map": "/design-lending/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6722ecd6.css",
+    "static/css/main.521f11d0.css",
     "static/js/main.6cdfffdd.js"
   ]
 }
